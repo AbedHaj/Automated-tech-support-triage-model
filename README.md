@@ -26,7 +26,7 @@ To develop a model that automatically analyzes incoming bug-report tickets and p
        -- GPT 3.5: For data generation
 
 
-## Repositories structure
+## Repository structure
 ```
 ├── Data structure/                                                          # Ontology and synthetic datasets
 │   ├── enterprise_systems.json    
