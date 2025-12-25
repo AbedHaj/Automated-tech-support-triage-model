@@ -31,7 +31,9 @@ To develop a model that automatically analyzes incoming bug-report tickets and p
 ├── Data structure/                                                          # Ontology and synthetic datasets
 │   ├── enterprise_systems.json    
 │   ├── industries.json            
-│   └── generated_dataset.json                                               # Synthetic support tickets dataset
+│   ├── generated_dataset.json
+│   ├── Dataset structure.png
+│   └── Structure example.png
 │
 ├── Documents/                                                               # Project presentations and reports
 │   ├── Automated-Tech-Support-Triage-Model-Introduction.pptx                # 1st presentation
