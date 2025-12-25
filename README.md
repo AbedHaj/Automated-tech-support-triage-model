@@ -43,3 +43,14 @@ To develop a model that automatically analyzes incoming bug-report tickets and p
 │
 └── README.md                                                                # Project overview and documentation
 ```
+## Data Structure examples
+<p align="center">
+  <img src="Universal-tech-support-triage-model/Data%20structure/Dataset%20structure.png"
+         alt="Dataset Structure"
+         width="700"/>
+</p>
+<p align="center">
+  <img src="Universal-tech-support-triage-model/Data%20structure/Structure%20example.png"
+       alt="Structure Example"
+       width="700"/>
+</p>
